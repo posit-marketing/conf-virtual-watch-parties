@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: "posit::conf(2023) Virtual Watch Party Kit"
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/rstudio-marketing/conf-virtual-watch-parties
+      - icon: linkedin
+        href: https://www.linkedin.com/company/posit-software/
+      - icon: twitter
+        href: https://twitter.com/posit_pbc
+      - icon: mastodon
+        href: https://fosstodon.org/@Posit
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://posit.co/conference
+        text: Register for In Person
+    background: "#419498"
+  sidebar:
+    text: "Menu"
+    logo: img/people.png
+    style: "docked"
+    contents:
+      - href: about-conf.qmd
+      - text: "---"
+      - href: posit-swag.qmd
+      - text: "---"
+      - href: virtual-events.qmd
+      - text: "---"
+      - text: "Apply to be a virtual watch party host"
+        href: https://docs.google.com/forms/d/e/1FAIpQLScyllqnd3g-95zJLL-zS3uyGyi4lhhm7i0oEHtZcg_ki5VXXw/viewform
+    background: "white"
+  page-footer:
+    left: "Built with Quarto"
+    right:
+      - text: "Edit this website"
+        href: https://github.com/rstudio-marketing/conf-virtual-watch-parties
+format:
+  html:
+    theme: [litera, styles.scss]
+    toc: true
+
+
+

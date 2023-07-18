@@ -1,0 +1,15 @@
+---
+title: "What you get as a virtual watch party host"
+---
+
+Thank you for considering hosting a virtual watch party for posit::conf(2023)!
+
+We will provide virtual watch party hosts a discount code for free virtual registration to posit::conf(2023). In addition, we are excited to be able to provide the following swag to participating user groups:
+
+* Posit Stickers
+* Ephemera (paper goods)
+* T-shirts
+
+![](img/swag.png){fig-align="center"}
+
+Please be aware that shipping times may vary and unfortunately, we cannot guarantee delivery due to ongoing shipping issues worldwide.

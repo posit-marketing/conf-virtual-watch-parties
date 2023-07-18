@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+$font-family-sans-serif:  -apple-system, BlinkMacSystemFont, "Open Sans" !default;
+$font-family-serif:       "Open Sans" !default;
+
+$font-size-base:              1.0rem !default;
+
+// Typography
+
+h1.title {
+  font-family: "Open Sans";
+  font-weight: 300;
+}
+
+h3.no-anchor.listing-title {
+  font-weight: 300;
+}
+
+h3.anchored {
+  font-weight: 300;
+}
+
+h2.anchored {
+  font-weight: 300;
+}
+
+h4 {
+  font-weight: 300;
+}
+
+a {
+  font-weight: 400;
+}
+
+p.subtitle.lead {
+  text-align: center;
+}
+
+a:href {
+  color: #419498;
+}
+
+a:hover {
+    color: #419498;
+    text-decoration: none;
+}
+
+//** Global textual link color.
+$link-color:            #783850 !default;
+//** Link hover color set via `darken()` function.
+$link-hover-color:      darken($link-color, 15%) !default;
+//** Link decoration.
+$link-decoration: none;
+$link-hover-decoration: none;
+
+.navbar-title {
+  font-family: "Open Sans";
+  font-weight: 300;
+}
+
+.menu-text {
+  font-family: "Open Sans";
+}
+
+a.sidebar-item-text.sidebar-link {
+    color: #297074;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #20595D; 
+  color: white; 
+  border-radius: 4px;
+}

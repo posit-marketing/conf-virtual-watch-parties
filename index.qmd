@@ -1,0 +1,18 @@
+---
+title: "Welcome to the posit::conf(2023) Virtual Watch Party Kit!"
+about:
+  template: marquee
+  image: img/logo.png
+---
+
+posit::conf(2023) is an annual conference organized by [Posit](https://posit.co/) (formerly RStudio). This event is all about bringing together the community and celebrating open-source data science. You can attend the conference either in person or virtually from September 17th to September 20th!
+
+The conference program, curated by [Hadley Wickham](https://hadley.nz/) and the Program Committee, features over 100 engaging and thoughtful keynotes and talks. You can find the complete schedule on our [blog](https://posit.co/blog/keynotes-and-talks-at-posit-conf-2023/).
+
+If you're not able to attend the conference in person but still want to be part of the experience, you can host or join a virtual watch party. A virtual watch party is a gathering of like-minded individuals who come together online to share the excitement and enjoy the conference together.
+
+If you're part of a user group and would like support from Posit to host a virtual watch party, simply fill out the form below. We'll review your submission and get back to you shortly with more information!
+
+We look forward to connecting with you at posit::conf(2023)!
+
+<button class="button button1" onclick="window.location.href='https://forms.gle/KRdDZeNaJjw3WcyY8';">Submit Form</button>
