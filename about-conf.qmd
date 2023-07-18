@@ -8,7 +8,7 @@ The virtual experience of our hybrid conference is a unique experience that brin
 
 The virtual experience includes:
 
-* Livestreams of the keynote and talks led by renowned speakers in data from September 19-20.
+* Livestreams of [over 100 keynote and talks](https://posit.co/blog/keynotes-and-talks-at-posit-conf-2023/) led by renowned speakers in data from September 19-20.
 * On-demand recordings available shortly after the scheduled run time of keynotes and talks
 * Question and answer sessions alongside other attendees during the talks
 * The opportunity to chat, share, and learn with other attendees, no matter where they are, through our virtual networking platform. 
