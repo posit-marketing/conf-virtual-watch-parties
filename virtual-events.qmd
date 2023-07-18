@@ -2,9 +2,9 @@
 title: "How to host a virtual watch party"
 ---
 
-Hosting a virtual watch party is a great way to bring your user group members together and enjoy an event like posit::conf(2023). Here are some simple steps to help you host a successful virtual watch party:
+Hosting a virtual watch party is a great way to bring your user group members together and enjoy an event like posit::conf(2023). Here are some steps to help you host a successful virtual watch party:
 
-1. **Choose a location.** Ensure that you have a location with stable internet connection, a large screen, and a quiet environment. Test the virtual event portal recordings and make sure you are familiar with its features.
+1. **Choose a location:** Ensure that you have a location with stable internet connection, a large screen, and a quiet environment. Test the virtual event portal and make sure you are familiar with its features.
 2. **Set a date and time:** Decide on a specific date and time for your watch party. Because our live streams will be available on demand shortly after the session, you have two options for scheduling an event:
     *  **Live:** Schedule a virtual watch party during posit::conf(2023). The live streams will take place from 9am - 6pm, Central Time/US. [See what time that is for you](https://www.timeanddate.com/time/difference/usa/chicago).
     * **Later date:** Schedule a virtual watch party after posit::conf(2023) hours. We hope to have recordings of sessions available on the virtual event portal within a few business days. This gives you the opportunity to schedule outside of the conf hours.
