@@ -5,7 +5,7 @@ about:
   image: img/logo.png
 ---
 
-posit::conf(2023) is an annual conference organized by [Posit](https://posit.co/) (formerly RStudio). This event is all about bringing together the community and celebrating open-source data science. You can attend the conference either in person or virtually from September 17th to September 20th!
+posit::conf(2023) is an annual conference organized by [Posit](https://posit.co/) (formerly RStudio). This event is all about bringing together the community and celebrating open-source data science. You can attend the conference either in person or virtually from September 17 to September 20!
 
 The conference program, curated by [Hadley Wickham](https://hadley.nz/) and the Program Committee, features over 100 engaging and thoughtful keynotes and talks. You can find the complete schedule on our [blog](https://posit.co/blog/keynotes-and-talks-at-posit-conf-2023/).
 

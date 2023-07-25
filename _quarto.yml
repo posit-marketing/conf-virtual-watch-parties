@@ -21,7 +21,6 @@ website:
     background: "#419498"
   sidebar:
     text: "Menu"
-    logo: img/people.png
     style: "docked"
     contents:
       - href: about-conf.qmd
